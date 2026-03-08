@@ -162,8 +162,18 @@ If this saves someone a few hours (or gray hairs), it was worth it.
 
 ---
 
-### ⭐ If you found this useful
+## 🪙 Support This Project
 
-Give it a star on GitHub or contribute improvements — let’s make Tor easier for Windows users.
+If you found this project useful, interesting, or helpful, consider supporting its development through **Monero**.
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/masterman331/masterman331/main/moneroadress.png" alt="Monero donation QR code" width="220"/>
+</p>
+
+<p align="center">
+<code>47chh1Z9wvHDP6ZDpzPPETKaXUfsNnmXr8P5cL4ofAkH1fi3mrrvC7tiRoeqxtNCbB1BQ3rqk5k2tSPGoiMSTUTC3iPc9Qu</code>
+</p>
+
+<p align="center">
+  <em>Privacy-respecting contributions help keep independent development alive.</em>
+</p>
