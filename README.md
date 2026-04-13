@@ -162,6 +162,11 @@ If this saves someone a few hours (or gray hairs), it was worth it.
 
 ---
 
+> **Disclaimer:**  
+> This project has been vibe-coded please use it cautiously. - Masterman331
+
+---
+
 ## 🪙 Support This Project
 
 If you found this project useful, interesting, or helpful, consider supporting its development through **Monero**.
